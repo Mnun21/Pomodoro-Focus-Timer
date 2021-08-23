@@ -6,3 +6,6 @@ Audio plays when the focus timer expires.
 Audio plays when the break timer expires.
 All state is updated using callbacks to avoid race conditions.
 Each component has a single responsibility.
+
+Link to Timer:
+https://mnun21.github.io/Project_Pomodoro_Timer/
