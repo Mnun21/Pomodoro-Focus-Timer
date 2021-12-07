@@ -35,7 +35,7 @@ const decreaseFocus = () => {
     <div className="row">
 <div className="col">
           <div className="input-group input-group-lg mb-2">
-            <span className="input-group-text" data-testid="duration-focus" style={{marginTop: "5px"}}>
+            <span className="input-group-text" data-testid="duration-focus">
               Focus Duration: {minutesToDuration(focusDuration)}
             </span>
             <div className="input-group-append">
